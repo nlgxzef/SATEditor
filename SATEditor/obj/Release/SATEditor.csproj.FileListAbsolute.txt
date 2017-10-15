@@ -1,0 +1,12 @@
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\bin\Release\SATEditor.exe.config
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\bin\Release\SATEditor.exe
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\bin\Release\SATEditor.pdb
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.SATEditorAbout.resources
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.SATEditorUI.resources
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.Properties.Resources.resources
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.csproj.GenerateResource.Cache
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.exe
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.pdb
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.csprojResolveAssemblyReference.cache
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.SATEditorEdit.resources
+g:\klasörler\belgeler\visual studio 2017\Projects\SATEditor\SATEditor\obj\Release\SATEditor.SATEditorSettingsUI.resources
